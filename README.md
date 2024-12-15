@@ -4,7 +4,7 @@
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f5557533fae5f9a352325881a9f881ac43632f55394f6df5cf2464334431d853/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d72647572766573683131266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/f5557533fae5f9a352325881a9f881ac43632f55394f6df5cf2464334431d853/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d72647572766573683131266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="mrdurvesh11" data-canonical-src="https://komarev.com/ghpvc/?username=mrdurvesh11&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 <ul dir="auto">
 <li>
-<p dir="auto">🌱 I’m currently learning <strong>React.JS ,Node.Js ,Talwind CSS</strong></p>
+<p dir="auto">🌱 I’m currently learning <strong>React.JS ,Spring Boot , hibernate ,Talwind CSS</strong></p>
 </li>
 <li>
 <p dir="auto">👨‍💻 All of my projects are available at <a href="https://github.com/Dipali1904">https://github.com/Dipali1904</a></p>
