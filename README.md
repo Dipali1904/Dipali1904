@@ -8,8 +8,6 @@
 
 ---
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue" alt="profile views" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!-- Learning and Projects -->
 - 🌱 I’m currently learning **React.JS, Node.JS, Tailwind CSS**
